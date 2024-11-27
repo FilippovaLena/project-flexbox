@@ -93,6 +93,7 @@ select:hover,
 
 .info-wrapper {
     display: flex;
+    justify-content: space-between;
 } /* 📍 Свойство flexbox для расположения 2-х списков в ряд */
 
 .section-title {
